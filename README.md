@@ -2,6 +2,7 @@
 Thank you for using my profiles :)
 
 Works with Ngenuity Beta compatible keyboards:
+
 HyperX Alloy FPS RGB
 HyperX Alloy Origins
 HyperX Alloy Origins Core
